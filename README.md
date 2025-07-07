@@ -109,7 +109,6 @@ STARTING PRIOR AUTH FLOW FOR: Susan Jones | DRUG: Ozemra
 [Step 3] Proceeding to automated submission...
 
    (Generator LLM - FLAN-T5) Writing Statement of Medical Necessity for Ozemra...
-The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
 
    (SMN Generated): "Susan Jones has been diagnosed with E11.9 and failed therapy with Jardiance. Ozemra is a new medication that can be used to treat Susan Jones."
 
